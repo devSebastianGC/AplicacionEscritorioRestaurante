@@ -1,0 +1,16 @@
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\bin\Debug\Restaurante C_SHARP.exe.config
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\bin\Debug\Restaurante C_SHARP.exe
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\bin\Debug\Restaurante C_SHARP.pdb
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante C_SHARP.csprojAssemblyReference.cache
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Properties.Resources.resources
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Vista.frmLogin.resources
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Vista.frmPrincipal.resources
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante C_SHARP.csproj.GenerateResource.cache
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante C_SHARP.csproj.CoreCompileInputs.cache
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante C_SHARP.exe
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante C_SHARP.pdb
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Vista.frmGestionEmpleado.resources
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Vista.frmGestionCliente.resources
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Vista.frmGestionCategoriasProductos.resources
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Vista.frmMenus.resources
+C:\Users\familia garcar\Desktop\Restaurante C_SHARP\obj\Debug\Restaurante_C_SHARP.Vista.frmCompra.resources
